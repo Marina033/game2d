@@ -1,0 +1,10 @@
+^D:\GITHUB\GAME2D\TEMPLATE1_CPP\CMAKEFILES\A3C2ECB5E1126A8CB391D9B31CD4DAE8\GENERATE.STAMP.RULE
+setlocal
+C:\Users\Марина\cmake-3.20.0-rc1-windows-x86_64\bin\cmake.exe -SD:/GitHub/game2d/template1_cpp -BD:/GitHub/game2d/template1_cpp --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GitHub/game2d/template1_cpp/main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

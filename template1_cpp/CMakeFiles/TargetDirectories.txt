@@ -1,0 +1,3 @@
+D:/GitHub/game2d/template1_cpp/CMakeFiles/main.dir
+D:/GitHub/game2d/template1_cpp/CMakeFiles/ALL_BUILD.dir
+D:/GitHub/game2d/template1_cpp/CMakeFiles/ZERO_CHECK.dir
